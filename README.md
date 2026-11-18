@@ -1,6 +1,6 @@
 # Caspar Leung
 
-Full-stack engineer in Hong Kong. Building reliable systems with clear ownership, human approval gates, and production-grade deployment.
+Full-stack engineer. Building reliable systems with clear ownership, human approval gates, and production-grade deployment.
 
 ## Stack
 
