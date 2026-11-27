@@ -1,45 +1,23 @@
-# Caspar Leung
+# Full-stack developer
 
-Full-stack engineer. Building reliable systems with clear ownership, human approval gates, and production-grade deployment.
+Building practical systems and side projects with a focus on clear ownership and production-grade delivery.
+
+## Focus
+
+Full-stack development (~5 years). Actively exploring AI-assisted workflows with Cursor, Claude, Codex, and related tools.
 
 ## Stack
 
-**Languages & frameworks:** HTML / CSS / JavaScript / TypeScript · Svelte · PHP / Laravel · Java · C# / .NET · C · React / Next.js · Three.js · Python
+**Languages & frameworks:** JavaScript / TypeScript · PHP / Laravel · C# / .NET · Python · React / Next.js · Svelte
 
-**Cloud & infra:** AWS · Cloudflare · Vercel · Docker · Wrangler
+**Cloud & infra:** AWS · Cloudflare · Docker
 
-**Data:** MongoDB · MySQL · SQLite · D1 · Redis · Kafka
+**Other:** Git · Figma · AI coding agents
 
-**Tools:** Git · Figma · GSAP
+## Current direction
 
-**Testing:** Vitest · Pytest
-
-**Coding agents:** Cursor · GitHub Copilot · Grok CLI
-
-## Active Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [chill-vibe](https://github.com/C45p4r/chill-vibe) | AI coding / booking platform (v0.2) | Active |
-| [vibe_room](https://github.com/C45p4r/vibe_room) | Godot 3D room customizer / status app | Active |
-| [trip-ahead](https://github.com/C45p4r/trip-ahead) | Trip planning | Active |
-| [car-cost-planner](https://github.com/C45p4r/car-cost-planner) | HK car cost calculator | Active |
-| [ink-effect](https://github.com/C45p4r/ink-effect) | Ink / fluid effect playground | Active |
-| [cursor-setup-base](https://github.com/C45p4r/cursor-setup-base) | Personal Cursor setup reference | Active |
-
-## Parked / On Hold
-
-Older experiments, learning projects, and ideas that are not currently in active development. History is preserved; they can be revived anytime.
-
-- [ai-co-working-space](https://github.com/C45p4r/ai-co-working-space) — Local multi-agent AI co-working space
-- [ESP32_nextBus](https://github.com/C45p4r/ESP32_nextBus) — ESP32 bus arrival display
-- [local-trade-bot](https://github.com/C45p4r/local-trade-bot)
-- [status-page-kit](https://github.com/C45p4r/status-page-kit)
-- [Trip-Planner](https://github.com/C45p4r/Trip-Planner)
-- [learning-garden](https://github.com/C45p4r/learning-garden)
-- [ops-agent](https://github.com/C45p4r/ops-agent) + related infra/appsec repos
-- Older learning / one-off repos (Laravel, mobile, etc.)
+Shipping side projects and refining AI-assisted development practices. Most work stays private while in progress.
 
 ## Contact
 
-Hong Kong · GitHub issues on the repos above
+Open to discussions via GitHub issues on public repositories.
